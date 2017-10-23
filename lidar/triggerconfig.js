@@ -1,0 +1,1 @@
+module.exports = {"set_empty_vehicle":230,"set_front_vehicle":71,"set_rear_vehicle":52,"set_no_vehicle":61,"set_no_vehicle_disabled":true,"set_front_vehicle_disabled":false,"set_rear_vehicle_disabled":true,"camera_ip":"192.168.1.245","camera_port":"10305","camera_trigger":"0","ttl_length":50,"ttl_trigger":"1","stop_time":2000,"stop_trigger":"1"}
